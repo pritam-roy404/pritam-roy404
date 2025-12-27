@@ -1,6 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritam-roy404&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritam-roy404)
-
 
 <h1 align="center">Hi 👋, I'm Pritam Roy</h1>
 <h3 align="center">Creative Developer • Learner • Tech Explorer</h3>
@@ -14,8 +11,11 @@
 ### 🧠 About Me
 - 💻 I enjoy **coding, animation & creative projects**
 - 🎨 Love mixing **art + tech**
-- 🚀 Currently learning & building cool stuff
+- 🔌 Electrical Engineering student with interest in **IoT (ESP32 & Arduino)**
+- 🐍 Currently learning **Python, C & C++**
+- 🚀 Learning by building practical projects
 - 😴 Introvert, overthinker & idea generator
+ 😴 Introvert, overthinker & idea generator
 
 ---
 
@@ -25,11 +25,15 @@
 </p>
 
 ---
+### 🔧 IoT Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,python,c,github,vscode" />
+</p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritam-roy404&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritam-roy404&theme=tokyonight" height="165"/>
+- 🔌 **Microcontrollers:** ESP32, Arduino    
+- 🧠 **Programming:** C, C++, Python  
+- 🛠️ **Tools:** Arduino IDE, VS Code, GitHub  
+
 </p>
 
 ---
@@ -45,8 +49,8 @@
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://github.com/pritam-roy404"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://www.linkedin.com/in/pritam-roy-noone"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.instagram.com/no_one5181"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
 </p>
 
 ---
