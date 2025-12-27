@@ -1,3 +1,7 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritam-roy404&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritam-roy404)
+
+
 <h1 align="center">Hi 👋, I'm Pritam Roy</h1>
 <h3 align="center">Creative Developer • Learner • Tech Explorer</h3>
 
