@@ -1,5 +1,7 @@
-
-<h1 align="center">Namaste 🙏🏻, I'm Pritam Roy</h1>
+<h1 align="center">
+  <span style="color:#555;">Namaste 🙏</span></h1><h3 align="center">
+  I'm Pritam Roy</h2
+                    3>
 <h3 align="center">Creative Developer • Learner • Tech Explorer</h3>
 
 <p align="center">
