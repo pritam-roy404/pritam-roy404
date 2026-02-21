@@ -16,7 +16,7 @@
 - 🐍 Currently learning **Python, C & C++**
 - 🚀 Learning by building practical projects
 - 😴 Introvert, overthinker & idea generator
--💤 ঘুম ভালোবাসি  
+- 💤 ঘুম ভালোবাসি  
 (*Sleep > Work. Always.* 😌)
 ---
 
