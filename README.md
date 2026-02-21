@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Pritam Roy</h1>
+<h1 align="center">Namaste 🙏🏻, I'm Pritam Roy</h1>
 <h3 align="center">Creative Developer • Learner • Tech Explorer</h3>
 
 <p align="center">
