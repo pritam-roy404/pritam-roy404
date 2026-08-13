@@ -60,7 +60,7 @@
 ### 🧯It Worked Yesterday
 
 <p align="center">
-  <img src="./engineering-setup.png" width="700">
+  <img src="./setup.png" width="700">
 </p>
 
 ---
