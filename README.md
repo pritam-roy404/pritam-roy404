@@ -57,11 +57,11 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pritam-roy404&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pritam-roy404&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-roy404&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🧯It Worked Yesterday
 
+<p align="center">
+  <img src="./engineering-setup.png" width="700">
+</p>
 
 ---
 
